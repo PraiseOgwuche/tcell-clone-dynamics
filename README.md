@@ -47,4 +47,4 @@ The model implements:
 MIT License
 
 ## Contact
-For questions or collaboration, please open an issue on this repository.
+For questions or collaboration, please contact me at praiseogwuche@uni.minerva.edu
