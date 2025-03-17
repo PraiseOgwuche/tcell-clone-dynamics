@@ -1,4 +1,5 @@
 # T Cell Clone Dynamics: Modeling CD8+ T Cell Persistence After mRNA Neoantigen Vaccination
+![phenotype_flow (1)](https://github.com/user-attachments/assets/df55225f-1cef-4b11-a0b3-180d5e368102)
 
 ## Project Overview
 This repository contains computational models and analysis of T cell clone dynamics following mRNA neoantigen vaccination, based on the findings from Sethna et al.'s 2024 paper "RNA neoantigen vaccines prime long-lived CD8+ T cells in pancreatic cancer." The project implements a stochastic simulation framework to model how vaccine-induced CD8+ T cell clones expand, contract, and transition between phenotypic states over time.
